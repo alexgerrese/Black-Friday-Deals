@@ -270,6 +270,9 @@ Access the power of ChatGPT across all your macOS apps with the press of a short
 
 Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
 
+### 💸 [Bookshelf: Reading Tracker](https://tinyurl.com/yk8vsd7n) - 50% OFF Gold Yearly, Nov 23 - Dec 3
+
+Beautiful, AI-enhanced reading tracker app that helps people track their library, build a lasting reading habit, and better remember what they read.
 
 <p>&nbsp;</p>
 
